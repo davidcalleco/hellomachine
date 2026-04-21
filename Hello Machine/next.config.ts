@@ -1,9 +1,6 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  // basePath only for Webflow Cloud (not for Vercel)
-  ...(process.env.VERCEL ? {} : { basePath: "/app" }),
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
 
