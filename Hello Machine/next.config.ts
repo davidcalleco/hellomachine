@@ -1,5 +1,6 @@
 import type { NextConfig } from "next";
 
+// Rebuild: 1776796059
 const nextConfig: NextConfig = {};
 
 export default nextConfig;
