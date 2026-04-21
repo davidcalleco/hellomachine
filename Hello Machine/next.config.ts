@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 // Rebuild: 1776796059
-const nextConfig: NextConfig = {};
+const nextConfig: NextConfig = {
+  output: "standalone",
+};
 
 export default nextConfig;
 
