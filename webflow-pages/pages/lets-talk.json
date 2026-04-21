@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "pageId": "654bbca540caa2734638b57a",
+    "title": "Let's talk",
+    "slug": "lets-talk",
+    "path": "/lets-talk",
+    "status": "published",
+    "seo": {
+      "title": "Contact Hello Machine | Let's build your Webflow website",
+      "description": "Have questions or ready to start your Webflow project? Contact us today and let's build something amazing together."
+    },
+    "lastUpdated": "2026-04-08T22:27:14.102Z"
+  },
+  "sections": [
+    {
+      "name": "Contact Header",
+      "type": "text",
+      "content": {
+        "heading": "Let's talk",
+        "subheading": "Have questions or ready to start your Webflow project? Get in touch."
+      }
+    },
+    {
+      "name": "Contact Form",
+      "type": "form",
+      "content": {
+        "fields": [
+          {"name": "name", "type": "text", "label": "Your Name"},
+          {"name": "email", "type": "email", "label": "Your Email"},
+          {"name": "message", "type": "textarea", "label": "Tell us about your project"}
+        ],
+        "submitButtonText": "Send Message",
+        "successMessage": "Thanks for reaching out! We'll get back to you soon."
+      }
+    }
+  ],
+  "notes": "Your contact/inquiry page. Update the form fields or add additional contact information as needed."
+}

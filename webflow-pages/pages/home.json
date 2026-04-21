@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "pageId": "654bbca540caa2734638b574",
+    "title": "Home",
+    "slug": "home",
+    "path": "/",
+    "status": "published",
+    "seo": {
+      "title": "Webflow development & management for agencies and businesses | Hello Machine",
+      "description": "Expert Webflow development, website migrations, and ongoing management. Whether you're an agency or a business, we build scalable, high-performance Webflow websites."
+    },
+    "openGraph": {
+      "title": "Webflow development & management for agencies and businesses | Hello Machine",
+      "description": "Expert Webflow development, website migrations, and ongoing management. Whether you're an agency or a business, we build scalable, high-performance Webflow websites."
+    },
+    "lastUpdated": "2026-04-08T22:28:06.036Z",
+    "createdOn": "2021-06-24T03:10:48.542Z"
+  },
+  "sections": [
+    {
+      "name": "Hero Section",
+      "componentId": "d36a88a9-0b45-2553-76ef-3200b3336cad",
+      "type": "component-instance",
+      "content": {
+        "heading": "Expert Webflow Development",
+        "description": "Expert Webflow development, seamless migrations, and ongoing management—built for agencies, businesses, and enterprises. Fast, scalable, and optimized for long-term success."
+      }
+    },
+    {
+      "name": "Features/Services Grid",
+      "componentId": "1a17bcc9-8d50-3aae-ba61-a4bc4a8d274d",
+      "type": "component-instance",
+      "content": {
+        "items": []
+      }
+    },
+    {
+      "name": "Case Studies",
+      "type": "section",
+      "content": {
+        "heading": "Our Work",
+        "items": []
+      }
+    },
+    {
+      "name": "CTA Section",
+      "type": "section",
+      "content": {
+        "heading": "Ready to get started?",
+        "buttonText": "Let's talk",
+        "buttonLink": "/lets-talk"
+      }
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "65eb3198de9a93b3685af8f2",
+        "alt": "Expert Webflow Development",
+        "usedIn": ["Hero Section"]
+      },
+      {
+        "id": "654bbca540caa2734638b586",
+        "alt": "Webflow Services",
+        "usedIn": ["Features/Services Grid"]
+      }
+    ]
+  },
+  "notes": "This is the homepage of your Webflow site. It includes the hero section, service offerings, and a call-to-action. Last published on 2026-04-21."
+}

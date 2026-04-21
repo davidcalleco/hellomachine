@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "pageId": "6583063300edc7895dfa121d",
+    "title": "Web Design & Development",
+    "slug": "web-design-development",
+    "path": "/services/web-design-development",
+    "status": "published",
+    "seo": {
+      "title": "Custom Webflow websites built for performance | Hello Machine",
+      "description": "We design and develop Webflow websites that are modern, scalable, and built to convert."
+    },
+    "lastUpdated": "2026-04-08T22:27:14.129Z"
+  },
+  "sections": [
+    {
+      "name": "Service Hero",
+      "type": "text",
+      "content": {
+        "heading": "Web Design & Development",
+        "subheading": "Modern, scalable Webflow websites built to convert."
+      }
+    }
+  ],
+  "notes": "Service page for comprehensive web design and development services."
+}

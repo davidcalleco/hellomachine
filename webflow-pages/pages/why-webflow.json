@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "pageId": "666c75a1eafce6a2e005cb94",
+    "title": "Why Webflow",
+    "slug": "why-webflow",
+    "path": "/why-webflow",
+    "status": "published",
+    "seo": {
+      "title": "Why choose Webflow? The future of website development | Hello Machine",
+      "description": "Discover why Webflow is the best platform for modern, high-performance websites. Faster, more secure, and easier to manage."
+    },
+    "lastUpdated": "2026-04-08T22:27:14.231Z"
+  },
+  "sections": [
+    {
+      "name": "Why Webflow Header",
+      "type": "text",
+      "content": {
+        "heading": "Why Choose Webflow?",
+        "subheading": "The future of website development for agencies and businesses."
+      }
+    },
+    {
+      "name": "Benefits",
+      "type": "section",
+      "content": {
+        "items": [
+          {"title": "Performance", "description": "Ultra-fast sites that rank higher in search"},
+          {"title": "Flexibility", "description": "Build anything without coding limitations"},
+          {"title": "Ease of Use", "description": "Intuitive visual builder for non-developers"}
+        ]
+      }
+    }
+  ],
+  "notes": "Educational page about Webflow benefits and why it's a great choice for modern web development."
+}

@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "pageId": "65833009aa71c3e9a2b1283f",
+    "title": "Pricing",
+    "slug": "pricing",
+    "path": "/pricing",
+    "status": "published",
+    "seo": {
+      "title": "Webflow development pricing | Agencies, businesses & fast-track | Hello Machine",
+      "description": "Transparent pricing for Webflow development, custom websites, and fast-track solutions. Choose a plan that fits your budget and goals."
+    },
+    "lastUpdated": "2026-04-08T22:27:14.169Z"
+  },
+  "sections": [
+    {
+      "name": "Pricing Header",
+      "type": "text",
+      "content": {
+        "heading": "Transparent Pricing",
+        "subheading": "Choose a plan that fits your budget and goals."
+      }
+    },
+    {
+      "name": "Pricing Plans",
+      "type": "pricing-grid",
+      "content": {
+        "plans": [
+          {
+            "name": "Custom Development",
+            "price": "Custom",
+            "description": "Tailored Webflow development for your specific needs",
+            "features": []
+          },
+          {
+            "name": "Fast-track",
+            "price": "Custom",
+            "description": "Launch your site in 5-10 days",
+            "features": []
+          },
+          {
+            "name": "Ongoing Management",
+            "price": "Monthly",
+            "description": "Keep your site fresh and optimized",
+            "features": []
+          }
+        ]
+      }
+    }
+  ],
+  "notes": "Your pricing page. Customize the plans and pricing details as needed."
+}

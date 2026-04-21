@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "pageId": "6581a6cde28b3f702cf33539",
+    "title": "Why Hello Machine",
+    "slug": "why-hello-machine",
+    "path": "/why-hello-machine",
+    "status": "published",
+    "seo": {
+      "title": "Why choose Hello Machine for Webflow development?",
+      "description": "We build modern, scalable Webflow websites with expert development, seamless collaboration, and ongoing support. Learn what makes us different."
+    },
+    "lastUpdated": "2026-04-08T22:27:14.123Z"
+  },
+  "sections": [
+    {
+      "name": "Page Heading",
+      "type": "text",
+      "content": {
+        "heading": "Why Hello Machine",
+        "subheading": "We build modern, scalable Webflow websites with expert development, seamless collaboration, and ongoing support."
+      }
+    },
+    {
+      "name": "Value Propositions",
+      "type": "section",
+      "content": {
+        "items": [
+          {
+            "title": "Expert Development",
+            "description": "Our team specializes in clean, scalable Webflow development."
+          },
+          {
+            "title": "Seamless Collaboration",
+            "description": "We work closely with you at every step of the process."
+          },
+          {
+            "title": "Long-term Support",
+            "description": "Ongoing management and updates to keep your site optimized."
+          }
+        ]
+      }
+    }
+  ],
+  "notes": "This page explains why clients choose Hello Machine for their Webflow projects. Emphasizes expertise, collaboration, and support."
+}

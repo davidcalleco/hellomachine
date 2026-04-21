@@ -1,0 +1,128 @@
+{
+  "site": {
+    "name": "Hello Machine",
+    "domain": "hellomachine.co",
+    "siteId": "654bbca540caa2734638b573",
+    "timezone": "America/Chicago",
+    "lastUpdated": "2026-04-21T17:24:25.680Z",
+    "lastPublished": "2026-04-21T17:23:55.302Z"
+  },
+  "pages": [
+    {
+      "id": "654bbca540caa2734638b574",
+      "title": "Home",
+      "slug": "home",
+      "path": "/",
+      "file": "home.json",
+      "seoTitle": "Webflow development & management for agencies and businesses | Hello Machine",
+      "seoDescription": "Expert Webflow development, website migrations, and ongoing management. Whether you're an agency or a business, we build scalable, high-performance Webflow websites.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:28:06.036Z"
+    },
+    {
+      "id": "6581a6cde28b3f702cf33539",
+      "title": "Why Hello Machine",
+      "slug": "why-hello-machine",
+      "path": "/why-hello-machine",
+      "file": "why-hello-machine.json",
+      "seoTitle": "Why choose Hello Machine for Webflow development?",
+      "seoDescription": "We build modern, scalable Webflow websites with expert development, seamless collaboration, and ongoing support. Learn what makes us different.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:27:14.123Z"
+    },
+    {
+      "id": "666c75a1eafce6a2e005cb94",
+      "title": "Why Webflow",
+      "slug": "why-webflow",
+      "path": "/why-webflow",
+      "file": "why-webflow.json",
+      "seoTitle": "Why choose Webflow? The future of website development | Hello Machine",
+      "seoDescription": "Discover why Webflow is the best platform for modern, high-performance websites. Faster, more secure, and easier to manage—perfect for agencies and businesses.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:27:14.231Z"
+    },
+    {
+      "id": "65833009aa71c3e9a2b1283f",
+      "title": "Pricing",
+      "slug": "pricing",
+      "path": "/pricing",
+      "file": "pricing.json",
+      "seoTitle": "Webflow development pricing | Agencies, businesses & fast-track | Hello Machine",
+      "seoDescription": "Transparent pricing for Webflow development, custom websites, and fast-track solutions. Choose a plan that fits your budget and goals.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:27:14.169Z"
+    },
+    {
+      "id": "654bbca540caa2734638b57a",
+      "title": "Let's talk",
+      "slug": "lets-talk",
+      "path": "/lets-talk",
+      "file": "lets-talk.json",
+      "seoTitle": "Contact Hello Machine | Let's build your Webflow website",
+      "seoDescription": "Have questions or ready to start your Webflow project? Contact us today and let's build something amazing together.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:27:14.102Z"
+    },
+    {
+      "id": "6583063300edc7895dfa121d",
+      "title": "Web Design & Development",
+      "slug": "web-design-development",
+      "path": "/services/web-design-development",
+      "file": "web-design-development.json",
+      "seoTitle": "Custom Webflow websites built for performance | Hello Machine",
+      "seoDescription": "We design and develop Webflow websites that are modern, scalable, and built to convert. Elevate your brand with a high-quality, custom Webflow site.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:27:14.129Z"
+    },
+    {
+      "id": "65832df3ed6a462723cbc72d",
+      "title": "Webflow Development",
+      "slug": "webflow-development",
+      "path": "/services/webflow-development",
+      "file": "webflow-development.json",
+      "seoTitle": "Expert Webflow Development Services | Hello Machine",
+      "seoDescription": "Get pixel-perfect Webflow development tailored for agencies and businesses. Clean, scalable, and high-performance builds for fast-growing brands.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:27:14.157Z"
+    },
+    {
+      "id": "65832fb8b37701c021332c3d",
+      "title": "Ongoing Webflow management & updates",
+      "slug": "ongoing-management",
+      "path": "/services/ongoing-webflow-management-and-updates",
+      "file": "ongoing-management.json",
+      "seoTitle": "Webflow website management & updates | Hello Machine",
+      "seoDescription": "Keep your Webflow site fresh, secure, and optimized. We handle content updates, SEO improvements, new features, and ongoing support.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:27:14.163Z"
+    },
+    {
+      "id": "668d4a6b0033486b89258443",
+      "title": "Wordpress to Webflow Migrations",
+      "slug": "wordpress-migrations",
+      "path": "/services/wordpress-to-webflow-migrations",
+      "file": "wordpress-migrations.json",
+      "seoTitle": "Seamless WordPress to Webflow migration | Hello Machine",
+      "seoDescription": "Say goodbye to WordPress maintenance headaches. We migrate your website to Webflow with zero downtime, better speed, and an easy-to-manage CMS.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:27:14.236Z"
+    },
+    {
+      "id": "66c4ed7f8d9679b3f37f4388",
+      "title": "Fast-track Website Development",
+      "slug": "fast-track",
+      "path": "/solutions/fast-track-website-development",
+      "file": "fast-track.json",
+      "seoTitle": "Fast-track Webflow website | Launch in 5–10 days | Hello Machine",
+      "seoDescription": "Need a professional Webflow website fast? Our fast-track plan delivers a fully customized, high-quality Webflow website in just 5–10 days.",
+      "status": "published",
+      "lastUpdated": "2026-04-08T22:27:14.247Z"
+    }
+  ],
+  "statistics": {
+    "totalPages": 10,
+    "publishedPages": 10,
+    "draftPages": 0,
+    "lastExport": "2026-04-21T13:57:00.000Z"
+  }
+}

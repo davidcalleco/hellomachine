@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "pageId": "65832df3ed6a462723cbc72d",
+    "title": "Webflow Development",
+    "slug": "webflow-development",
+    "path": "/services/webflow-development",
+    "status": "published",
+    "seo": {
+      "title": "Expert Webflow Development Services | Hello Machine",
+      "description": "Get pixel-perfect Webflow development tailored for agencies and businesses. Clean, scalable, and high-performance builds for fast-growing brands."
+    },
+    "lastUpdated": "2026-04-08T22:27:14.157Z"
+  },
+  "sections": [
+    {
+      "name": "Service Hero",
+      "type": "text",
+      "content": {
+        "heading": "Expert Webflow Development",
+        "subheading": "Clean, scalable, and high-performance Webflow builds for growing businesses."
+      }
+    },
+    {
+      "name": "What We Do",
+      "type": "section",
+      "content": {
+        "items": [
+          {"title": "Custom Development", "description": "Tailored Webflow builds for your specific needs"},
+          {"title": "Performance Optimization", "description": "Fast, optimized sites that convert"},
+          {"title": "Scalable Architecture", "description": "Built to grow with your business"}
+        ]
+      }
+    }
+  ],
+  "notes": "Service page for Webflow Development. Highlight your development expertise and process."
+}

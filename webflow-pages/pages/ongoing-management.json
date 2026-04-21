@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "pageId": "65832fb8b37701c021332c3d",
+    "title": "Ongoing Webflow management & updates",
+    "slug": "ongoing-management",
+    "path": "/services/ongoing-webflow-management-and-updates",
+    "status": "published",
+    "seo": {
+      "title": "Webflow website management & updates | Hello Machine",
+      "description": "Keep your Webflow site fresh, secure, and optimized."
+    },
+    "lastUpdated": "2026-04-08T22:27:14.163Z"
+  },
+  "sections": [
+    {
+      "name": "Service Hero",
+      "type": "text",
+      "content": {
+        "heading": "Ongoing Management & Updates",
+        "subheading": "Keep your site fresh, secure, and optimized."
+      }
+    }
+  ],
+  "notes": "Service page for ongoing site management, updates, and support."
+}

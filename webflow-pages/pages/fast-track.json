@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "pageId": "66c4ed7f8d9679b3f37f4388",
+    "title": "Fast-track Website Development",
+    "slug": "fast-track",
+    "path": "/solutions/fast-track-website-development",
+    "status": "published",
+    "seo": {
+      "title": "Fast-track Webflow website | Launch in 5–10 days | Hello Machine",
+      "description": "Need a site fast? Our fast-track plan delivers a fully customized Webflow website in just 5–10 days."
+    },
+    "lastUpdated": "2026-04-08T22:27:14.247Z"
+  },
+  "sections": [
+    {
+      "name": "Service Hero",
+      "type": "text",
+      "content": {
+        "heading": "Fast-track Website Development",
+        "subheading": "Launch your professional website in 5–10 days."
+      }
+    }
+  ],
+  "notes": "Service page for fast-track development option with quick turnaround."
+}
