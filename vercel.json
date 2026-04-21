@@ -1,0 +1,5 @@
+{
+  "root": "Hello Machine",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next"
+}
